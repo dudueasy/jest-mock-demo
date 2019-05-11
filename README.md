@@ -15,3 +15,6 @@
 ### spyOnDemo.test.js
 示范通过 jest.spyOn 创建一个 spied method
 
+### moxiosDemo.test.js
+示范如何使用 moxios mock 并测试 axios 请求
+

@@ -1,15 +1,16 @@
 {
   "devDependencies": {
     "@babel/preset-env": "^7.4.4",
-    "jest": "^24.7.1"
+    "jest": "^24.7.1",
+    "moxios": "^0.4.0"
   },
   "scripts": {
     "test": "jest"
   },
   "jest": {
-    "preset": "babel-jest"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "babel-jest": "^24.8.0"
   }
 }
