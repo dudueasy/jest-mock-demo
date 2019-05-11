@@ -3,15 +3,15 @@
 
 #  文件说明
 
-* mockFunctionDemo.test.js
+### mockFunctionDemo.test.js 
 示范如何 mock 一个函数
 
-* mockFuntionApiDemo.test.js
+### mockFuntionApiDemo.test.js
 示范 mock API 的使用
 
-* mockModuleDemo.test.js
+### mockModuleDemo.test.js
 示范如何 mock 一个模块 
 
-* spyOnDemo.test.js
+### spyOnDemo.test.js
 示范通过 jest.spyOn 创建一个 spied method
 
